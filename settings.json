@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK robo",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "00immortal24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "OpNidhishG.aternos.me",
+    "port": 15525,
     "version": "",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to HexaShock!",
         "I like to play Minecraft!"
       ]
     },
